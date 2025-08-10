@@ -1,0 +1,6 @@
+# This file would be created by the install script to hold the zone-import executable.
+# In a real install, this would be a symlink or copy of zone-import.py, made executable.
+# For demonstration, this is a placeholder.
+
+#!/usr/bin/env python3
+# ...existing code from zone-import.py...
